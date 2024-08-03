@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [http://example.com](http://example.com)
 - 📝 I regularly write articles on [http://example.com](http://example.com)
 - 💬 Ask me about **vue, go and so on**
-- 📫 How to reach me **wangjser@gmial.com**
+- 📫 How to reach me **wangjser@gmail.com**
 - 📄 Know about my experiences [http://example.com](http://example.com)
 - ⚡ Fun fact **I am funny**
 
