@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **vue, go and so on**
 
-- 📫 How to reach me **wangjser@gmial.com**
+- 📫 How to reach me **wangjser@gmail.com**
 
 - 📄 Know about my experiences [About Me](https://ustinian-wang.github.io/blog/docs/Resume.html)
 
